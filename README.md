@@ -1,2 +1,2 @@
 # Simple-Algorithms
-Just a store for simple algorithm i implement
+My Algorithm implementations are stored here
